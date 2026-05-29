@@ -1,0 +1,6 @@
+{
+  "name": "Audio & Vídeo",
+  "description": "Loja especializada em venda, instalação de antenas e equipamentos de TV, som, energia e assistência técnica profissional em Nova Friburgo - RJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
